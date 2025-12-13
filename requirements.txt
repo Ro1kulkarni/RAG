@@ -1,0 +1,14 @@
+beautifulsoup4
+requests
+faiss-cpu
+sentence-transformers
+numpy
+fastapi
+uvicorn
+langchain
+langchain-core
+langchain-community
+faiss-cpu
+numpy
+sentence-transformers
+torch
