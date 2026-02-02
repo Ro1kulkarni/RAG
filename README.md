@@ -37,7 +37,5 @@ This project demonstrates **end-to-end RAG architecture**, data handling, scrapi
 ✔ Fully modular folder structure  
 ✔ Easy to extend and deploy  
 
----
-
-# 🏗️ Architecture Diagram  
+--- 
 
